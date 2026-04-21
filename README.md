@@ -131,4 +131,6 @@ See **[`chunking.md`](chunking.md)** for production hardening (Docling, tracing,
 
 ## License
 
-Add a `LICENSE` file if you plan to open-source this repo; the repository currently contains no root-level license file.
+This project’s **code** is licensed under the [MIT License](LICENSE).
+
+That license does **not** apply to third-party documents (for example FATF PDFs) or to derived text in example outputs; those remain subject to their respective rights holders—see [Legal and attribution](#legal-and-attribution) above.
